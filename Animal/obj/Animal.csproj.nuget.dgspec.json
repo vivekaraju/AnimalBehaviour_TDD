@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\v.a.raju\\source\\repos\\AnimalBehaviours\\Animal\\Animal.csproj": {}
+    "C:\\GitHubRepo\\TDD\\New folder\\AnimalBehaviour_TDD\\Animal\\Animal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\v.a.raju\\source\\repos\\AnimalBehaviours\\Animal\\Animal.csproj": {
+    "C:\\GitHubRepo\\TDD\\New folder\\AnimalBehaviour_TDD\\Animal\\Animal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\v.a.raju\\source\\repos\\AnimalBehaviours\\Animal\\Animal.csproj",
+        "projectUniqueName": "C:\\GitHubRepo\\TDD\\New folder\\AnimalBehaviour_TDD\\Animal\\Animal.csproj",
         "projectName": "Animal",
-        "projectPath": "C:\\Users\\v.a.raju\\source\\repos\\AnimalBehaviours\\Animal\\Animal.csproj",
-        "packagesPath": "C:\\Users\\v.a.raju\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\v.a.raju\\source\\repos\\AnimalBehaviours\\Animal\\obj\\",
+        "projectPath": "C:\\GitHubRepo\\TDD\\New folder\\AnimalBehaviour_TDD\\Animal\\Animal.csproj",
+        "packagesPath": "C:\\Users\\Raghavendra.h.r\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHubRepo\\TDD\\New folder\\AnimalBehaviour_TDD\\Animal\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\v.a.raju\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Raghavendra.h.r\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Raghavendra.h.r\\source\\repos\\SUBSYSTEM\\Tools\\PDSListDBGenerator\\SyncSharedLibraryNuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

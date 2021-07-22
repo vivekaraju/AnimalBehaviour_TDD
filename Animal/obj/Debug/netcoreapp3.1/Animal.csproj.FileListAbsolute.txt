@@ -1,0 +1,13 @@
+C:\GitHubRepo\TDD\New folder\AnimalBehaviour_TDD\Animal\bin\Debug\netcoreapp3.1\Animal.exe
+C:\GitHubRepo\TDD\New folder\AnimalBehaviour_TDD\Animal\bin\Debug\netcoreapp3.1\Animal.deps.json
+C:\GitHubRepo\TDD\New folder\AnimalBehaviour_TDD\Animal\bin\Debug\netcoreapp3.1\Animal.runtimeconfig.json
+C:\GitHubRepo\TDD\New folder\AnimalBehaviour_TDD\Animal\bin\Debug\netcoreapp3.1\Animal.runtimeconfig.dev.json
+C:\GitHubRepo\TDD\New folder\AnimalBehaviour_TDD\Animal\bin\Debug\netcoreapp3.1\Animal.dll
+C:\GitHubRepo\TDD\New folder\AnimalBehaviour_TDD\Animal\bin\Debug\netcoreapp3.1\Animal.pdb
+C:\GitHubRepo\TDD\New folder\AnimalBehaviour_TDD\Animal\obj\Debug\netcoreapp3.1\Animal.AssemblyInfoInputs.cache
+C:\GitHubRepo\TDD\New folder\AnimalBehaviour_TDD\Animal\obj\Debug\netcoreapp3.1\Animal.AssemblyInfo.cs
+C:\GitHubRepo\TDD\New folder\AnimalBehaviour_TDD\Animal\obj\Debug\netcoreapp3.1\Animal.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\TDD\New folder\AnimalBehaviour_TDD\Animal\obj\Debug\netcoreapp3.1\Animal.dll
+C:\GitHubRepo\TDD\New folder\AnimalBehaviour_TDD\Animal\obj\Debug\netcoreapp3.1\Animal.pdb
+C:\GitHubRepo\TDD\New folder\AnimalBehaviour_TDD\Animal\obj\Debug\netcoreapp3.1\Animal.genruntimeconfig.cache
+C:\GitHubRepo\TDD\New folder\AnimalBehaviour_TDD\Animal\obj\Debug\netcoreapp3.1\Animal.csproj.AssemblyReference.cache

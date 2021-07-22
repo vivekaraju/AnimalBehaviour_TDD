@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHubRepo\\TDD\\New folder\\AnimalBehaviour_TDD\\AnimalBehaviours\\AnimalBehaviours.csproj": {}
+    "C:\\GitHubRepo\\TDD\\New folder\\AnimalBehaviour_TDD\\AnimalTest\\AnimalTest.csproj": {}
   },
   "projects": {
-    "C:\\GitHubRepo\\TDD\\New folder\\AnimalBehaviour_TDD\\AnimalBehaviours\\AnimalBehaviours.csproj": {
+    "C:\\GitHubRepo\\TDD\\New folder\\AnimalBehaviour_TDD\\AnimalTest\\AnimalTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHubRepo\\TDD\\New folder\\AnimalBehaviour_TDD\\AnimalBehaviours\\AnimalBehaviours.csproj",
-        "projectName": "AnimalBehaviours",
-        "projectPath": "C:\\GitHubRepo\\TDD\\New folder\\AnimalBehaviour_TDD\\AnimalBehaviours\\AnimalBehaviours.csproj",
+        "projectUniqueName": "C:\\GitHubRepo\\TDD\\New folder\\AnimalBehaviour_TDD\\AnimalTest\\AnimalTest.csproj",
+        "projectName": "AnimalTest",
+        "projectPath": "C:\\GitHubRepo\\TDD\\New folder\\AnimalBehaviour_TDD\\AnimalTest\\AnimalTest.csproj",
         "packagesPath": "C:\\Users\\Raghavendra.h.r\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHubRepo\\TDD\\New folder\\AnimalBehaviour_TDD\\AnimalBehaviours\\obj\\",
+        "outputPath": "C:\\GitHubRepo\\TDD\\New folder\\AnimalBehaviour_TDD\\AnimalTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

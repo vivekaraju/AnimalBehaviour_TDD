@@ -1,4 +1,4 @@
-﻿namespace AnimalBehaviours
+﻿namespace Animal
 {
     public class Dog
     {
