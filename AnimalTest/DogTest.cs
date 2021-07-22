@@ -7,11 +7,15 @@ namespace AnimalTest
     public class DogTest
     {
         [Fact]
-        public void DogSpeaksBasedOnGivenNameBeingRex()
+        public void DogSpeaksBasedOnGivenName()
         {
-            string dogName = "Rex";
+            string dogGivenName = "Rex";
+            string dogWrongName = "Rocky";
             Dog dog = new Dog();
-            Assert.Equal("Woof!", dog.SpeakBasedOnName(dogName));
+            string expectedSound = "Woof!";
+            string expectedWrongSound = "Roof?";
+            Assert.Equal(expectedSound, dog.SpeakBasedOnName(dogGivenName));
+            Assert.Equal(expectedWrongSound, dog.SpeakBasedOnName(dogWrongName));
         }
     }
 }
