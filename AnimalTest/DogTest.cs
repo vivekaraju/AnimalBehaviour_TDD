@@ -17,5 +17,15 @@ namespace AnimalTest
             Assert.Equal(expectedSound, dog.SpeakBasedOnName(dogGivenName));
             Assert.Equal(expectedWrongSound, dog.SpeakBasedOnName(dogWrongName));
         }
+        
+        [Fact]
+        public void DogActBasedOnGivenCommandAndBasedonGivenName()
+        {
+            string dogGivenName = "Rex";
+            string givenCommand = "Sit";
+            Dog dog = new Dog();
+            Assert.True(dog.ActBasedOnCommand(dogGivenName, givenCommand));
+
+        }
     }
 }

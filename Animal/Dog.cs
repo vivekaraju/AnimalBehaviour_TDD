@@ -5,9 +5,15 @@
         public string SpeakBasedOnName(string dogName)
         {
             if (dogName == "Rex")
+            {
                 return "Woof!";
-            else
-                return "Roof?";
+            }
+            
+            return "Roof?";
+        }
+        public bool ActBasedOnCommand(string dogGivenName, string dogCommand)
+        {
+            return true;
         }
     }
 }
